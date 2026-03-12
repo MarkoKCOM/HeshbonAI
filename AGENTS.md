@@ -72,6 +72,22 @@ In the HeshbonAI Sales group:
 - Respond to Sione's questions about specific prospects
 - Stay silent on non-sales topics
 
+## Workspace Git
+
+Your workspace is a git repo. Keep it committed and pushed.
+
+### Auto-commit (heartbeat)
+- On every heartbeat, if there are uncommitted changes: `git add -A && git commit -m "chore: auto-commit $(date +%Y-%m-%d)"`
+- Push after committing: `git push origin main`
+
+### Manual commit
+- When Sione says "commit", "save", "push", "update git", or similar → commit and push immediately
+- Use a descriptive message: `git commit -m "feat: added 10 new USA prospects"` or `git commit -m "update: pipeline status March 12"`
+
+### Before committing
+- Check for secrets: `git diff --cached | grep -iE "sk-|token|key|secret|password"` — if anything matches, unstage it
+- NEVER commit files containing API keys, passwords, or tokens
+
 ## Tools
 
 Read `SKILLS.md` before starting any task. Use the right skill for the job.

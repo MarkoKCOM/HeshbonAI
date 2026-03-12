@@ -31,6 +31,12 @@ Track state in `memory/heartbeat-state.json`.
 - Which regions/firm types responded best?
 - Recommend adjustments for next week
 
+## Every Heartbeat
+
+**Workspace Git**
+- If there are uncommitted changes: `git add -A && git commit -m "chore: auto-commit $(date +%Y-%m-%d)"` then `git push origin main`
+- This keeps your workspace backed up and synced
+
 **Otherwise:** HEARTBEAT_OK
 
 ---

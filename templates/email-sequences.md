@@ -1,10 +1,11 @@
-# Email Templates — USA CPA Outreach
+# Email Templates - USA CPA Outreach
 
 **Sender:** Marko <marko@heshbonai.co>
 **Sender title:** CEO & Founder, HeshbonAI
 **Signature block:** See bottom of this file.
 
-All templates use `{{variables}}` — personalize before sending.
+All templates use `{{variables}}` - personalize before sending.
+Logo/brandmark: to be added to signature once provided by Sione.
 
 ---
 
@@ -12,11 +13,11 @@ All templates use `{{variables}}` — personalize before sending.
 
 Best for: Firms with 30+ clients, tax prep focus, document-heavy industries.
 
-### Email 1 — Cold Open (Day 0)
+### Email 1 - Cold Open (Day 0)
 
 **Subject options (A/B test):**
-- A: `{{firmName}} — still chasing clients for documents?`
-- B: `How {{firmName}} could save 10+ hours/week on document collection`
+- A: `{{firmName}} - still chasing clients for documents?`
+- B: `The follow-ups killing your team's time at {{firmName}}`
 - C: `Quick question about document collection at {{firmName}}`
 
 **Body:**
@@ -24,20 +25,29 @@ Best for: Firms with 30+ clients, tax prep focus, document-heavy industries.
 ```
 Hi {{firstName}},
 
-I noticed {{firmName}} serves {{specialization}} clients in {{city}} — that usually means a lot of documents to collect every tax season.
+Every follow-up message, every reminder, every "did you receive my documents?" call - that's your team's time gone. Not on billable work. Just chasing.
 
-Quick question: how much time does your team spend following up with clients for missing documents? For most firms your size, it's 10-15 hours per week.
+It adds up fast during tax season. And it's the one thing most firms still do entirely by hand.
 
-We built HeshbonAI to eliminate that. It's an AI assistant that reaches out to your clients via text/WhatsApp, follows up automatically on a schedule you set, and tracks everything in a real-time dashboard. Your clients respond because it messages them where they already are — not in a portal they'll never log into.
+HeshbonAI handles it for you:
+- White-label AI assistant reaches out under your firm's name - clients think it's your team
+- Texts and WhatsApp messages (where clients actually respond - 90%+ response rate)
+- Automatic follow-ups until every document is received
+- Reads, scans, and analyzes PDFs and files - catches errors and missing items instantly
+- Answers client questions 24/7 - document status, deadlines, what's still needed
+- Syncs with QuickBooks, Google Drive, Dropbox, Google Calendar, Outlook, and Zapier
+- Real-time dashboard - every client, every document, every status
 
-Firms using it cut document collection time by over 70%.
+Your team stops chasing. They start accounting.
 
-Would you be open to a 15-minute demo? I can show you exactly how it would work for {{firmName}}.
+Is this still a manual process at your firm? Happy to jump on a call and see if we're a fit.
+
+heshbonai.co
 
 {{signature}}
 ```
 
-### Email 2 — Follow-Up Value Add (Day 4)
+### Email 2 - Follow-Up Value Add (Day 4)
 
 **Subject:** `Re: {{originalSubject}}`
 
@@ -46,38 +56,42 @@ Would you be open to a 15-minute demo? I can show you exactly how it would work 
 ```
 Hi {{firstName}},
 
-Following up on my note from last week. I know tax season keeps everyone buried.
+Following up - I know tax season is brutal right now.
 
-One thing I didn't mention — HeshbonAI sends messages branded to your firm. Your clients see "{{exampleAssistantName}} from {{firmName}}", not a generic tool. It feels like a real team member handling the follow-ups.
+One thing worth knowing: HeshbonAI is fully white-labeled. Clients see "Maya from {{firmName}}" - not a tool, not a bot. The conversation feels like your own staff member handling follow-ups.
 
-Here's what that looks like in practice:
-- Client gets a text: "Hi Sarah, this is Maya from {{firmName}}. We need your W-2 and bank statements for your 2025 return. You can reply right here with photos or PDFs."
-- Client snaps a photo, sends it back.
-- Dashboard updates automatically. No spreadsheet. No phone tag.
+And it's not just document collection. Maya answers client questions around the clock - what documents are needed, what's already been received, what deadlines are coming. Your staff stops fielding those calls.
 
-If document collection is even a minor headache for your team, I'd love to show you a quick demo.
+When documents come in:
+- PDFs and files are automatically scanned and analyzed
+- Wrong document? Incomplete? Maya flags it and asks the client to resubmit
+- Everything syncs to your existing tools - QuickBooks, Google Drive, Dropbox, Outlook
 
-Any time work this week?
+Your team shows up in the morning to a dashboard where the work is already done.
+
+Is this still a manual process at your firm? Happy to jump on a call and see if we're a fit.
+
+heshbonai.co
 
 {{signature}}
 ```
 
-### Email 3 — Breakup (Day 10)
+### Email 3 - Breakup (Day 10)
 
-**Subject:** `Closing the loop — {{firmName}}`
+**Subject:** `Closing the loop - {{firmName}}`
 
 **Body:**
 
 ```
 Hi {{firstName}},
 
-I've reached out a couple of times and I know you're busy, so I'll keep this short.
+I've reached out a couple of times - I know you're busy so I'll keep this short.
 
-If automating document collection isn't a priority right now, no worries — I'll stop reaching out.
+If document collection isn't a priority right now, no worries. I'll stop reaching out.
 
-But if you ever want to see how {{firmName}} could save 10+ hours a week on client follow-ups, just reply to this email. The offer stands.
+But if you ever want to see how {{firmName}} could free up your team from the manual follow-up cycle - just reply. The offer stands.
 
-Wishing you a smooth tax season.
+heshbonai.co
 
 {{signature}}
 ```
@@ -86,9 +100,9 @@ Wishing you a smooth tax season.
 
 ## Sequence B: "The Tech-Forward Firm" (Secondary)
 
-Best for: Cloud-based firms, virtual accounting, QuickBooks-certified, modern websites, firms that already mention technology on their site.
+Best for: Cloud-based firms, virtual accounting, QuickBooks-certified, modern websites.
 
-### Email 1 — Cold Open (Day 0)
+### Email 1 - Cold Open (Day 0)
 
 **Subject options:**
 - A: `{{firmName}}'s next automation win`
@@ -99,20 +113,29 @@ Best for: Cloud-based firms, virtual accounting, QuickBooks-certified, modern we
 ```
 Hi {{firstName}},
 
-I was looking at {{firmName}}'s site and noticed you're already doing things the modern way — {{techSignal}}.
+{{firmName}} is already doing things the modern way - {{techSignal}}. But there's one workflow almost every firm still does manually: chasing clients for documents.
 
-But there's one workflow that almost every firm still does manually: chasing clients for documents. Phone calls, emails, texts — and half the time, clients still don't respond.
+Every follow-up message, every reminder, every "did you receive my documents?" call - that's your team's time gone. Not on billable work. Just chasing.
 
-HeshbonAI automates that entirely. It's an AI assistant that messages your clients via text/WhatsApp, follows up on the schedule you set, and gives you a live dashboard of what's in and what's missing.
+HeshbonAI automates it entirely:
+- White-label AI assistant reaches out under your firm's name - clients think it's your team
+- Texts and WhatsApp messages (where clients actually respond - 90%+ response rate)
+- Automatic follow-ups until every document is received
+- Reads, scans, and analyzes PDFs and files - catches errors and missing items instantly
+- Answers client questions 24/7 - document status, deadlines, what's still needed
+- Syncs with QuickBooks, Google Drive, Dropbox, Google Calendar, Outlook, and Zapier
+- Real-time dashboard - every client, every document, every status
 
-The firms using it spend under 1 hour/week on document collection instead of 10-15.
+Your team stops chasing. They start accounting.
 
-Since you're already tech-forward, I think you'd appreciate seeing this in action. Got 15 minutes this week?
+Is this still a manual process at your firm? Happy to jump on a call and see if we're a fit.
+
+heshbonai.co
 
 {{signature}}
 ```
 
-### Email 2 — Follow-Up (Day 4)
+### Email 2 - Follow-Up (Day 4)
 
 **Subject:** `Re: {{originalSubject}}`
 
@@ -121,31 +144,49 @@ Since you're already tech-forward, I think you'd appreciate seeing this in actio
 ```
 Hi {{firstName}},
 
-Quick follow-up — wanted to share one number: 90%+ response rate.
+Quick follow-up - one number worth knowing: 90%+ client response rate.
 
-That's what firms get when they message clients on WhatsApp/text instead of email. People respond to texts. They ignore emails.
+That's what happens when you message clients on WhatsApp instead of email. They respond. They ignore portal reminders.
 
-HeshbonAI combines that channel advantage with AI-powered follow-up, so your team never has to manually chase a document again.
+HeshbonAI puts that on autopilot - fully branded to {{firmName}}, so it feels like your own staff. Not a bot. When documents come in, they're automatically scanned and analyzed. Anything wrong or missing gets flagged immediately. Everything syncs to your existing tools.
 
-Worth a 15-minute look? Happy to work around your schedule.
+Is this still a manual process at your firm? Happy to jump on a call and see if we're a fit.
+
+heshbonai.co
 
 {{signature}}
 ```
 
-### Email 3 — Breakup (Day 10)
+### Email 3 - Breakup (Day 10)
 
-(Same as Sequence A, Email 3)
+**Subject:** `Closing the loop - {{firmName}}`
+
+**Body:**
+
+```
+Hi {{firstName}},
+
+I've reached out a couple of times - I'll keep this short.
+
+If automating document collection isn't a priority right now, no problem. I'll stop reaching out.
+
+If that changes, just reply. Happy to show you how {{firmName}} could free your team from the manual follow-up cycle.
+
+heshbonai.co
+
+{{signature}}
+```
 
 ---
 
 ## Sequence C: "The Diverse Client Base" (Niche)
 
-Best for: Firms serving immigrant communities, international clients, multilingual practices, ITIN specialists.
+Best for: Immigrant communities, international clients, multilingual practices, ITIN specialists.
 
-### Email 1 — Cold Open (Day 0)
+### Email 1 - Cold Open (Day 0)
 
 **Subject options:**
-- A: `{{firmName}} — reaching clients who prefer WhatsApp`
+- A: `{{firmName}} - reaching clients who prefer WhatsApp`
 - B: `Document collection for {{firmName}}'s diverse client base`
 
 **Body:**
@@ -153,13 +194,25 @@ Best for: Firms serving immigrant communities, international clients, multilingu
 ```
 Hi {{firstName}},
 
-I noticed {{firmName}} serves {{diversitySignal}} — that's a client base where WhatsApp isn't just convenient, it's the primary way they communicate.
+{{firmName}} serves {{diversitySignal}} - a client base where WhatsApp isn't just convenient, it's how they communicate.
 
-HeshbonAI is an AI assistant that collects client documents through WhatsApp and text messaging. It messages clients in {{languages}} with your firm's name and branding, follows up automatically, and tracks everything in a dashboard.
+The problem: collecting documents from these clients over email or portals doesn't work. Low response rates, language barriers, apps they'll never download.
 
-For firms with international or immigrant client bases, the response rates are exceptional — over 90%. No portals to log into, no apps to download. Clients just reply to a WhatsApp message.
+HeshbonAI is built for exactly this:
+- White-label AI assistant messages clients in {{languages}} - under your firm's name
+- Clients think they're talking to a real person on your team, not a bot
+- WhatsApp-native - no app download, no portal login
+- Automatic follow-ups until every document is received
+- Reads, scans, and analyzes incoming PDFs and files - flags anything wrong or missing
+- Answers client questions 24/7 in their language - status updates, what's needed, deadlines
+- 90%+ response rate from clients who ignored email portals
+- Syncs with QuickBooks, Google Drive, Dropbox, Outlook, and Zapier
 
-Would love to show you a quick demo tailored to {{firmName}}'s client base. Got 15 minutes?
+Your team stops chasing. They start accounting.
+
+Is this still a manual process at your firm? Happy to jump on a call and see if we're a fit.
+
+heshbonai.co
 
 {{signature}}
 ```
@@ -168,11 +221,11 @@ Would love to show you a quick demo tailored to {{firmName}}'s client base. Got 
 
 ---
 
-## Sequence D: "Post Tax Season" (Seasonal — use May-August)
+## Sequence D: "Post Tax Season" (Seasonal - use May-August)
 
-Best for: All firms, after the April 15 deadline when they're catching their breath.
+Best for: All firms, after the April 15 deadline.
 
-### Email 1 — Cold Open
+### Email 1 - Cold Open
 
 **Subject options:**
 - A: `Before next tax season hits {{firmName}}`
@@ -183,15 +236,22 @@ Best for: All firms, after the April 15 deadline when they're catching their bre
 ```
 Hi {{firstName}},
 
-Now that tax season is winding down — how many hours did your team spend just collecting documents this year?
+Tax season is winding down - how many hours did your team spend just on follow-ups this year? Reminders, calls, chasing missing documents. Time that never shows up on an invoice.
 
-For most firms, the answer is "way too many." And the worst part: it'll be the same story next year unless something changes.
+HeshbonAI eliminates that entirely:
+- White-label AI assistant works under your firm's name - clients think it's your team
+- Reaches out via WhatsApp/text, follows up automatically until everything is received
+- Reads, scans, and analyzes every file - catches errors before they slow you down
+- Answers client questions 24/7 - document status, deadlines, what's still needed
+- 90%+ client response rate vs 30-40% for email
+- Syncs with QuickBooks, Google Drive, Dropbox, Google Calendar, Outlook, and Zapier
+- Real-time dashboard - see exactly what's in, what's missing, who's late
 
-HeshbonAI automates the entire document collection process. Set it up once, and next tax season your clients get automatic follow-ups via text/WhatsApp. Your dashboard shows you exactly who's submitted and who hasn't. No spreadsheets, no phone tag, no chaos.
+Summer is the right time to get this in place - before January hits again.
 
-Summer is the perfect time to set this up so it's ready for January.
+Is this still a manual process at your firm? Happy to jump on a call and see if we're a fit.
 
-Want to see a 15-minute demo?
+heshbonai.co
 
 {{signature}}
 ```
@@ -221,10 +281,11 @@ Best,
 Marko
 CEO & Founder, HeshbonAI
 marko@heshbonai.co | heshbonai.co
+[Logo/brandmark - to be added]
 
 ---
 You're receiving this because we think HeshbonAI could help your firm.
-If you'd prefer not to hear from us, just reply "unsubscribe" and I'll remove you immediately.
+To unsubscribe, reply "unsubscribe" and I'll remove you immediately.
 ```
 
 ---
@@ -242,4 +303,4 @@ If you'd prefer not to hear from us, just reply "unsubscribe" and I'll remove yo
 
 ---
 
-*Templates v1 — pending Sione approval before first send.*
+*Templates v4 - Updated March 2026. Short dashes only. No "bot", no "quick setup", no "eating time". Website link in every email. Logo placeholder in signature. CTA: "Is this still a manual process at your firm? Happy to jump on a call and see if we're a fit."*
