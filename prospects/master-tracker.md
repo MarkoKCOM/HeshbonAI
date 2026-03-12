@@ -1,7 +1,7 @@
 # Master Prospect Tracker — Duplicate Prevention
 
 **Last updated:** March 12, 2026
-**Total prospects:** 100 with confirmed emails (41 original + 46 Wave 4 + 13 Wave 5)
+**Total prospects:** 129 with confirmed emails (41 original + 46 Wave 4 + 13 Wave 5 + 29 Wave 6)
 
 ## All Contacted/Listed Firms (alphabetical)
 
@@ -128,3 +128,37 @@ Before adding ANY new prospect:
 | 98 | Thorne and Associates | mark@thorne-cpa.com | 5 | Prospect |
 | 99 | SLC Bookkeeping | sales@slcbookkeeping.com | 5 | Prospect |
 | 100 | Nosbush Tax | christine@nosbushtax.com | 5 | Prospect |
+
+## Wave 6 Additions - March 12, 2026
+
+| # | Firm | Email | Wave | Status |
+|---|------|-------|------|--------|
+| 101 | Zacharias Lawrence CPA | info@zachcpa.com | 6 | Prospect |
+| 102 | HHH CPAs | info@howardcpas.com | 6 | Prospect |
+| 103 | Sapanara & Wyman PA | info@sapanarawymancpa.com | 6 | Prospect |
+| 104 | Yo & Co CPA | syo@yocpa.com | 6 | Prospect |
+| 105 | Hacker Johnson & Smith | info@hackerjohnson.com | 6 | Prospect |
+| 106 | SK Financial | sk@skfinancial.com | 6 | Prospect |
+| 107 | Noble Tax Strategies | support@nobletaxstrategies.com | 6 | Prospect |
+| 108 | Guardian Accounting Group | admin@guardianaccountinggroup.com | 6 | Prospect |
+| 109 | Kerkering Barberio | kbcpa@kbgrp.com | 6 | Prospect |
+| 110 | Ryan Consulting Group | info@ryanconsultingcpa.com | 6 | Prospect |
+| 111 | Bishop CPA LLC | edbernal@bishcpa.com | 6 | Prospect |
+| 112 | Xel Advisors | hello@xeladvisors.com | 6 | Prospect |
+| 113 | UpFront CPA | info@upfrontcpa.com | 6 | Prospect |
+| 114 | Baldwin Accounting CPA | info@baldwinaccountingcpa.com | 6 | Prospect |
+| 115 | CPA Accounting Orlando | contactus@cpaaccounting.biz | 6 | Prospect |
+| 116 | Ramos Accounting | info@ramosaccounting.net | 6 | Prospect |
+| 117 | Fajardo CPA | ana@fajardocpa.com | 6 | Prospect |
+| 118 | Spencer & Burgay CPAs | info@orlandofl-cpa.com | 6 | Prospect |
+| 119 | Maige & Sizemore CPA | admin@calibra.cpa | 6 | Prospect |
+| 120 | Brock CPA | csellers@brockcpa.com | 6 | Prospect |
+| 121 | Jacksonville CPA Firm | info@jacksonvillecpafirm.com | 6 | Prospect |
+| 122 | David R. Dingus CPA | info@drdcpa.com | 6 | Prospect |
+| 123 | Sadowski & Company | info@sadowskico.com | 6 | Prospect |
+| 124 | McKeever & Spisso LLC | info@mckeeverspisso.com | 6 | Prospect |
+| 125 | Accountants CPA Hartford | info@cpa-connecticut.com | 6 | Prospect |
+| 126 | Sunrise Accounting | miguel.correa@sunrisetax.net | 6 | Prospect |
+| 127 | Helming & Company PC | chelming@helmingcpas.com | 6 | Prospect |
+| 128 | CPAOKC PLLC | admin@cpaokc.net | 6 | Prospect |
+| 129 | Heritage CPAs PLLC | info@heritagecpas.com | 6 | Prospect |
