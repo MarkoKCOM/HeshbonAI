@@ -1,7 +1,7 @@
 # Master Prospect Tracker — Duplicate Prevention
 
 **Last updated:** March 12, 2026
-**Total prospects:** 129 with confirmed emails (41 original + 46 Wave 4 + 13 Wave 5 + 29 Wave 6)
+**Total prospects:** 154 with confirmed emails (41 original + 46 Wave 4 + 13 Wave 5 + 54 Wave 6)
 
 ## All Contacted/Listed Firms (alphabetical)
 
@@ -162,3 +162,33 @@ Before adding ANY new prospect:
 | 127 | Helming & Company PC | chelming@helmingcpas.com | 6 | Prospect |
 | 128 | CPAOKC PLLC | admin@cpaokc.net | 6 | Prospect |
 | 129 | Heritage CPAs PLLC | info@heritagecpas.com | 6 | Prospect |
+
+## Wave 6b (Sub-agent Batch 3) - March 12, 2026
+
+| # | Firm | Email | Wave | Status |
+|---|------|-------|------|--------|
+| 130 | Amore and Beatman CPAs | abeatman@abcpas-ct.com | 6 | Prospect |
+| 131 | William P. Connor CPA | Bill@wpconnorcpa.com | 6 | Prospect |
+| 132 | Edwards CPA Group | support@edwardscpagroup.com | 6 | Prospect |
+| 133 | ELT CPA | ernie@eltcpa.com | 6 | Prospect |
+| 134 | Fidelis CPA | info@fideliscpa.com | 6 | Prospect |
+| 135 | Marietta CPAs | office@mariettacpa.com | 6 | Prospect |
+| 136 | Martin Associates PA | john@martincpa.com | 6 | Prospect |
+| 137 | CPAccounting Solutions | jshaner@cpaccountingsolutions.net | 6 | Prospect |
+| 138 | CPA Orlando | info@cpaorlando.net | 6 | Prospect |
+| 139 | Papaleo Rosen & Chelf | jjarrell@prccpa.com | 6 | Prospect |
+| 140 | Simms & Company PLLC | info@simmscpa.com | 6 | Prospect |
+| 141 | Ellis & Ellis PLLC | info@elliscpa.com | 6 | Prospect |
+| 142 | Rollins Cleavenger Rollins | info@rcrcpa.com | 6 | Prospect |
+| 143 | CPA Goss | phil@cpagoss.com | 6 | Prospect |
+| 144 | James Dee Johnson | taxquestions@jdjcpa.net | 6 | Prospect |
+| 145 | Pete Orlando CPA | pete@peteorlandocpa.com | 6 | Prospect |
+| 146 | Lindsey Parker Martin | info@lpmcpa.com | 6 | Prospect |
+| 147 | Johnson & Associates | info@spokanecpa.com | 6 | Prospect |
+| 148 | Terry J. Redmon CPA | terry@terryredmoncpa.com | 6 | Prospect |
+| 149 | Hellings CPA Group | info@hellingscpagroup.com | 6 | Prospect |
+| 150 | JMM & Associates | info@jmmcpa.net | 6 | Prospect |
+| 151 | W CPA Group | info@twcpa.com | 6 | Prospect |
+| 152 | The Royce CPA Firm | ana@theroycecpafirm.com | 6 | Prospect |
+| 153 | Robert V. Ramirez CPA | robert@rvrcpa.com | 6 | Prospect |
+| 154 | Thomas E. Scott CPA | tscott@tescottcpa.com | 6 | Prospect |
