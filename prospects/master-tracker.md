@@ -1,7 +1,7 @@
 # Master Prospect Tracker — Duplicate Prevention
 
 **Last updated:** March 12, 2026
-**Total prospects:** 87 with confirmed emails (41 original + 46 Wave 4)
+**Total prospects:** 100 with confirmed emails (41 original + 46 Wave 4 + 13 Wave 5)
 
 ## All Contacted/Listed Firms (alphabetical)
 
@@ -110,3 +110,21 @@ Before adding ANY new prospect:
 | 85 | Rogers CPA | info@rogerscpas.com | 4 | Prospect |
 | 86 | Murphy and Associates | marlene@mmurphycpa.com | 4 | Prospect |
 | 87 | Frazer & Persac LLC | rennea@fpcpa.com | 4 | Prospect |
+
+## Wave 5 Additions - March 12, 2026
+
+| # | Firm | Email | Wave | Status |
+|---|------|-------|------|--------|
+| 88 | Fresh Start Tax & Accounting | welovenumbers@freshstartcpa.com | 5 | Prospect |
+| 89 | Bridges & Associates CPAs | jbridges@bridgescpas.com | 5 | Prospect |
+| 90 | Siegel and Company PC | george@siegelandcompany.com | 5 | Prospect |
+| 91 | Eric Rossi CPA LLC | erossi@ericrossicpa.com | 5 | Prospect |
+| 92 | Reller & Company CPA PC | info@rellercpa.com | 5 | Prospect |
+| 93 | AM CPA | info@amcpakc.com | 5 | Prospect |
+| 94 | WTA Tax | shawn@wta.tax | 5 | Prospect |
+| 95 | G4 CPA Firm Inc | acappellino@g4cpa.com | 5 | Prospect |
+| 96 | Garner Adams & Associates | ggarner@garnercpa.com | 5 | Prospect |
+| 97 | Klingler & Associates | info@klinglercpa.com | 5 | Prospect |
+| 98 | Thorne and Associates | mark@thorne-cpa.com | 5 | Prospect |
+| 99 | SLC Bookkeeping | sales@slcbookkeeping.com | 5 | Prospect |
+| 100 | Nosbush Tax | christine@nosbushtax.com | 5 | Prospect |

@@ -1,18 +1,19 @@
 # MEMORY.md — Sales Agent Long-Term Memory
 
 ## Campaign Status
-- **USA Campaign:** Active. 95 prospects in targets-usa.md, 87 with confirmed emails.
+- **USA Campaign:** Active. 108 firms in targets-usa.md, 100 with confirmed emails.
 - **Templates:** v5.2 (bullet format) finalized. All 4 sequences (A/B/C/D) approved by Sione.
 - **Wave 1:** 10 firms contacted March 11, 2026. Email 2 due March 15. Email 3 due March 21.
 - **Wave 2:** 20 firms contacted March 12, 2026. Email 2 due March 16. Email 3 due March 22.
 - **Wave 3:** 10 prospects (#40-49) ready, not yet emailed.
 - **Wave 4:** 46 new prospects (#50-95) added March 12 via scraping + sub-agent research.
-- **Unsent prospects:** 56 firms ready (Wave 3: 10 + Wave 4: 46).
+- **Wave 5:** 13 new prospects (#96-108) added March 12 via targeted search (Baltimore, Pittsburgh, Kansas City, Richmond, Salt Lake City).
+- **Unsent prospects:** 70 firms ready (Wave 3: 10 + Wave 4: 46 + Wave 5: 13 + extras without emails: 1).
 - **Mode:** Cautious - need Sione approval for new campaigns.
 
 ## Prospect Pipeline
-- **Total in file:** 95 firms
-- **With confirmed emails:** 87
+- **Total in file:** 108 firms
+- **With confirmed emails:** 100
 - **Contacted:** 30 (Wave 1: 10, Wave 2: 20)
 - **Awaiting send:** 57 (10 Wave 3 + 46 Wave 4 + 1 test already sent)
 - **Replies received:** 0 (as of March 12)
