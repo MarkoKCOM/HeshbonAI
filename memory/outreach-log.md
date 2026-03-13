@@ -63,6 +63,38 @@ All emails sent by Closer. Every send logged here.
 
 ---
 
+## 2026-03-13 - USA Campaign Wave 3
+
+**Total sent today:** 20
+**Template:** v5.2 (bullet format)
+**Follow-up Email 2 due:** 2026-03-17
+**Follow-up Email 3 due:** 2026-03-23
+
+| # | Firm | Email | Sequence | Subject | Status |
+|---|------|-------|----------|---------|--------|
+| 31 | Sai CPA Services | info@saicpaservices.com | B | Sai CPA Services's next automation win | Contacted |
+| 32 | Demian & Company, LLC | info@taxprocpa.com | A | Demian & Company, LLC - still chasing clients for documents? | Contacted |
+| 33 | Brooks & Associates, CPAs, Inc. | info@brookscpafirm.com | B | The one workflow Brooks & Associates, CPAs, Inc. probably hasn't automated yet | Contacted |
+| 34 | Blankenship CPA Group, PLLC | info@bcpas.com | A | The follow-ups killing your team's time at Blankenship CPA Group, PLLC | Contacted |
+| 35 | Lewis CPA LLC | marye@lewiscpallc.com | B | Lewis CPA LLC's next automation win | Contacted |
+| 36 | Silicon Valley CPA Firm | jph@siliconvalleyCPAFirm.com | B | The one workflow Silicon Valley CPA Firm probably hasn't automated yet | Contacted |
+| 37 | K. A. Lindow, CPA, P.C. | ken@lindowcpa.com | B | K. A. Lindow, CPA, P.C.'s next automation win | Contacted |
+| 38 | Bryant & Associates, LLC | travareis@bryantcpallc.com | B | The one workflow Bryant & Associates, LLC probably hasn't automated yet | Contacted |
+| 39 | Matthew P. Schlanger CPA LLC | matthew@cpaschlanger.com | B | Matthew P. Schlanger CPA LLC's next automation win | Contacted |
+| 40 | Jaffer Merchant, CPA | info@jaffermerchantcpa.com | B | The one workflow Jaffer Merchant, CPA probably hasn't automated yet | Contacted |
+| 41 | CPA 1099 | info@cpa1099.com | A | Quick question about document collection at CPA 1099 | Contacted |
+| 42 | Harlem CPA | info@cpaharlem.com | C | Harlem CPA - reaching clients who prefer WhatsApp | Contacted |
+| 43 | Friedman & Associates PA | marc@friedmancpa.com | A | Friedman & Associates PA - still chasing clients for documents? | Contacted |
+| 44 | RALL CPA | druocco@rallcpa.com | A | The follow-ups killing your team's time at RALL CPA | Contacted |
+| 45 | NCL CPA Firm | contact@ncllcpa.com | A | Quick question about document collection at NCL CPA Firm | Contacted |
+| 46 | Raymond Lyle CPA PLLC | andrew@raymondlylecpa.com | B | Raymond Lyle CPA PLLC's next automation win | Contacted |
+| 47 | Seattle Tax Group LLC | brian@seattletaxgroup.com | B | The one workflow Seattle Tax Group LLC probably hasn't automated yet | Contacted |
+| 48 | Lockhart & Powell CPAs | reception@lockhartandpowell.com | A | Lockhart & Powell CPAs - still chasing clients for documents? | Contacted |
+| 49 | Pillai CPA | taxinfo@pillaicpa.com | C | Document collection for Pillai CPA's diverse client base | Contacted |
+| 50 | Hollis CPA Firm | cameron@holliscpa.com | A | The follow-ups killing your team's time at Hollis CPA Firm | Contacted |
+
+---
+
 ## Rules
 - If a prospect replies: notify Sione immediately, do NOT send follow-up
 - Email 2: send on due date ONLY if no reply received

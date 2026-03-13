@@ -1,0 +1,162 @@
+[
+  {
+    "num": 40,
+    "firm": "Sai CPA Services",
+    "email": "info@saicpaservices.com",
+    "sequence": "B",
+    "subject": "Sai CPA Services's next automation win",
+    "status": "SENT"
+  },
+  {
+    "num": 41,
+    "firm": "Demian & Company, LLC",
+    "email": "info@taxprocpa.com",
+    "sequence": "A",
+    "subject": "Demian & Company, LLC - still chasing clients for documents?",
+    "status": "SENT"
+  },
+  {
+    "num": 42,
+    "firm": "Brooks & Associates, CPAs, Inc.",
+    "email": "info@brookscpafirm.com",
+    "sequence": "B",
+    "subject": "The one workflow Brooks & Associates, CPAs, Inc. probably hasn't automated yet",
+    "status": "SENT"
+  },
+  {
+    "num": 43,
+    "firm": "Blankenship CPA Group, PLLC",
+    "email": "info@bcpas.com",
+    "sequence": "A",
+    "subject": "The follow-ups killing your team's time at Blankenship CPA Group, PLLC",
+    "status": "SENT"
+  },
+  {
+    "num": 44,
+    "firm": "Lewis CPA LLC",
+    "email": "marye@lewiscpallc.com",
+    "sequence": "B",
+    "subject": "Lewis CPA LLC's next automation win",
+    "status": "SENT"
+  },
+  {
+    "num": 45,
+    "firm": "Silicon Valley CPA Firm",
+    "email": "jph@siliconvalleyCPAFirm.com",
+    "sequence": "B",
+    "subject": "The one workflow Silicon Valley CPA Firm probably hasn't automated yet",
+    "status": "SENT"
+  },
+  {
+    "num": 46,
+    "firm": "K. A. Lindow, CPA, P.C.",
+    "email": "ken@lindowcpa.com",
+    "sequence": "B",
+    "subject": "K. A. Lindow, CPA, P.C.'s next automation win",
+    "status": "SENT"
+  },
+  {
+    "num": 47,
+    "firm": "Bryant & Associates, LLC",
+    "email": "travareis@bryantcpallc.com",
+    "sequence": "B",
+    "subject": "The one workflow Bryant & Associates, LLC probably hasn't automated yet",
+    "status": "SENT"
+  },
+  {
+    "num": 48,
+    "firm": "Matthew P. Schlanger CPA LLC",
+    "email": "matthew@cpaschlanger.com",
+    "sequence": "B",
+    "subject": "Matthew P. Schlanger CPA LLC's next automation win",
+    "status": "SENT"
+  },
+  {
+    "num": 49,
+    "firm": "Jaffer Merchant, CPA",
+    "email": "info@jaffermerchantcpa.com",
+    "sequence": "B",
+    "subject": "The one workflow Jaffer Merchant, CPA probably hasn't automated yet",
+    "status": "SENT"
+  },
+  {
+    "num": 50,
+    "firm": "CPA 1099",
+    "email": "info@cpa1099.com",
+    "sequence": "A",
+    "subject": "Quick question about document collection at CPA 1099",
+    "status": "SENT"
+  },
+  {
+    "num": 51,
+    "firm": "Harlem CPA",
+    "email": "info@cpaharlem.com",
+    "sequence": "C",
+    "subject": "Harlem CPA - reaching clients who prefer WhatsApp",
+    "status": "SENT"
+  },
+  {
+    "num": 52,
+    "firm": "Friedman & Associates PA",
+    "email": "marc@friedmancpa.com",
+    "sequence": "A",
+    "subject": "Friedman & Associates PA - still chasing clients for documents?",
+    "status": "SENT"
+  },
+  {
+    "num": 53,
+    "firm": "RALL CPA",
+    "email": "druocco@rallcpa.com",
+    "sequence": "A",
+    "subject": "The follow-ups killing your team's time at RALL CPA",
+    "status": "SENT"
+  },
+  {
+    "num": 54,
+    "firm": "NCL CPA Firm",
+    "email": "contact@ncllcpa.com",
+    "sequence": "A",
+    "subject": "Quick question about document collection at NCL CPA Firm",
+    "status": "SENT"
+  },
+  {
+    "num": 55,
+    "firm": "Raymond Lyle CPA PLLC",
+    "email": "andrew@raymondlylecpa.com",
+    "sequence": "B",
+    "subject": "Raymond Lyle CPA PLLC's next automation win",
+    "status": "SENT"
+  },
+  {
+    "num": 56,
+    "firm": "Seattle Tax Group LLC",
+    "email": "brian@seattletaxgroup.com",
+    "sequence": "B",
+    "subject": "The one workflow Seattle Tax Group LLC probably hasn't automated yet",
+    "status": "SENT"
+  },
+  {
+    "num": 57,
+    "firm": "Lockhart & Powell CPAs",
+    "email": "reception@lockhartandpowell.com",
+    "sequence": "A",
+    "subject": "Lockhart & Powell CPAs - still chasing clients for documents?",
+    "status": "SENT"
+  },
+  {
+    "num": 58,
+    "firm": "Pillai CPA",
+    "email": "taxinfo@pillaicpa.com",
+    "sequence": "C",
+    "subject": "Document collection for Pillai CPA's diverse client base",
+    "status": "SENT"
+  },
+  {
+    "num": 59,
+    "firm": "Hollis CPA Firm",
+    "email": "cameron@holliscpa.com",
+    "sequence": "A",
+    "subject": "The follow-ups killing your team's time at Hollis CPA Firm",
+    "status": "SENT"
+  }
+]
