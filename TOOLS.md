@@ -6,12 +6,33 @@
 - **SA Key:** `/root/.heshbonai-sa-key.json` (chmod 600)
 - **APIs enabled:** Gmail, Sheets, Docs, Drive, Contacts
 
-## Workspace References (Marko's workspace)
-- USA prospects: `/root/.openclaw/workspace/business/heshbonai/prospects/targets-usa.md`
-- Israel prospects: `/root/.openclaw/workspace/business/heshbonai/prospects/targets.md`
-- Brand guide: `/root/.openclaw/workspace/business/heshbonai/branding/brand-guide.md`
-- Product positioning: `/root/.openclaw/workspace/business/heshbonai/product/positioning.md`
-- Website: https://heshbonai.co
+## Links & Resources
+- **Website:** https://heshbonai.co
+- **Pipeline Sheet:** https://docs.google.com/spreadsheets/d/1U4fxAA-IrxBgJ0ztAdLn9U1AqfOvWPdRGiXsU3rhmU8
+- **GitHub Repo:** https://github.com/MarkoKCOM/HeshbonAI
+
+## Local File Paths (all inside this workspace)
+
+### Prospects (all in `prospects/`)
+- USA prospects (162 firms): `prospects/targets-usa.md`
+- Israel prospects (87 firms): `prospects/targets-israel.md`
+- Master dedup tracker: `prospects/master-tracker.md`
+- Sales pipeline: `prospects/pipeline.md`
+- Wave 3 research: `prospects/wave3-research.md`
+
+### Business
+- Brand guide: `business/branding/brand-guide.md`
+- Product positioning: `business/product/positioning.md`
+- Product features: `business/product/features.md`
+- One-pager: `business/product/one-pager.md`
+- Competitor analysis: `business/competitors/analysis.md`
+- Website copy: `business/website/`
+
+### Outreach
+- Email templates: `templates/email-sequences.md`
+- Writing conventions: `memory/writing-conventions.md`
+- Outreach log: `memory/outreach-log.md`
+- Send script: `scripts/send-wave3.py`
 
 ## Domain Warm-Up Rules
 - Week 1-2: Max 5 emails/day
