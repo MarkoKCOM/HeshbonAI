@@ -4,5 +4,3 @@ auth-profiles.json
 *.key.json
 *.env
 
-# Symlinked directories (tracked in Marko's repo)
-business
