@@ -72,9 +72,19 @@ In the HeshbonAI Sales group:
 - Respond to Sione's questions about specific prospects
 - Stay silent on non-sales topics
 
+## Data Ownership
+
+**All your data lives in THIS repo only** (`MarkoKCOM/HeshbonAI`).
+- Business data: `business/` (branding, competitors, product, prospects, website)
+- Prospects: `prospects/` and `business/prospects/`
+- Memory: `memory/`
+- Scripts: `scripts/`
+
+**DO NOT** write files to Marko's main workspace (`/root/.openclaw/workspace/`). That is Marko's repo, not yours. If you need to share something with Marko, post it in the Telegram group — don't write to his filesystem.
+
 ## Workspace Git
 
-Your workspace is a git repo. Keep it committed and pushed.
+Your workspace is a git repo (`MarkoKCOM/HeshbonAI`). Keep it committed and pushed.
 
 ### Auto-commit (heartbeat)
 - On every heartbeat, if there are uncommitted changes: `git add -A && git commit -m "chore: auto-commit $(date +%Y-%m-%d)"`
