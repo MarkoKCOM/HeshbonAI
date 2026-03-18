@@ -1,10 +1,24 @@
 # TOOLS.md — Local Environment
 
-## Email Infrastructure
-- **Send-as:** marko@heshbonai.co via Google Workspace (CEO / Founder)
-- **GCP Service Account:** `marko-agent@heshbonai-489415.iam.gserviceaccount.com`
-- **SA Key:** `/root/.heshbonai-sa-key.json` (chmod 600)
-- **APIs enabled:** Gmail, Sheets, Docs, Drive, Contacts
+## Google Workspace Access (USE THIS — you have full API access)
+
+You have a **service account with domain-wide delegation** on heshbonai.co. This means you can:
+- **Send emails** as marko@heshbonai.co via Gmail API
+- **Read/write Google Sheets** (pipeline tracker, prospect data)
+- **Read/write Google Docs** (proposals, one-pagers)
+- **Access Google Drive** (shared files, attachments)
+- **Manage Google Contacts**
+
+**How to use it:**
+- **Service Account:** `marko-agent@heshbonai-489415.iam.gserviceaccount.com`
+- **SA Key file:** `/root/.heshbonai-sa-key.json` (chmod 600)
+- **Impersonate:** `marko@heshbonai.co` (domain-wide delegation)
+- **Scopes:** Gmail send/read, Sheets, Docs, Drive, Contacts
+- **Example script:** `scripts/send-wave3.py` — uses the SA key to send emails via Gmail API
+
+**To send emails:** Write a Python script using `google.oauth2.service_account` + `googleapiclient`. See `scripts/send-wave3.py` as the working reference. You built this — use it.
+
+**To read/write Sheets:** Same auth pattern, use `sheets` service instead of `gmail`.
 
 ## Links & Resources
 - **Website:** https://heshbonai.co
