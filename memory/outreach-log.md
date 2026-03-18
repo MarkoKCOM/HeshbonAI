@@ -29,6 +29,28 @@ All emails sent by Closer. Every send logged here.
 
 ---
 
+## 2026-03-18 - Wave 1 Email 2 Follow-Ups
+
+**Total sent:** 10 | **Template:** v5.2 Email 2 (per sequence A/B/C)
+**Note:** 3 days late (was due March 15). Approved by Sione March 18.
+**Replies from Wave 1 at send time:** 0
+**Email 3 due:** 2026-03-21
+
+| # | Firm | Email | Seq | Subject | Status |
+|---|------|-------|-----|---------|--------|
+| 1 | Tristan CPA | hello@tristancpa.com | B | Re: Tristan CPA's next automation win | Sent |
+| 2 | Eliseo CPA, LLC | jared@eliseocpa.com | B | Re: The one workflow Eliseo CPA, LLC probably hasn't automated yet | Sent |
+| 3 | Cooper CPA Group | hello@coopercpagroup.com | B | Re: Cooper CPA Group's next automation win | Sent |
+| 4 | Foster Financial CPA | office@fosterfinancialcpa.com | B | Re: Foster Financial CPA's next automation win | Sent |
+| 5 | Pitch CPA | info@PitchCPA.com | B | Re: Pitch CPA's next automation win | Sent |
+| 6 | CPA Philly | info@cpaphilly.com | A | Re: CPA Philly - still chasing clients for documents? | Sent |
+| 7 | Fricke & Associates, LLC | info@frickecpa.com | A | Re: Fricke & Associates, LLC - still chasing clients for documents? | Sent |
+| 8 | Patten & Company | info@ptcpas.com | A | Re: Quick question about document collection at Patten & Company | Sent |
+| 9 | Simon CPAs | support@simonaccounting.com | A | Re: The follow-ups killing your team's time at Simon CPAs | Sent |
+| 10 | JM CPA Group | Info@JMCPAGroup.com | C | Re: JM CPA Group - reaching clients who prefer WhatsApp | Sent |
+
+---
+
 ## 2026-03-12 - USA Campaign Wave 2
 
 **Total sent today:** 20

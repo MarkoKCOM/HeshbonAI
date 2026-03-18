@@ -3,7 +3,7 @@
 ## Campaign Status
 - **USA Campaign:** Active. 108 firms in targets-usa.md, 100 with confirmed emails.
 - **Templates:** v5.2 (bullet format) finalized. All 4 sequences (A/B/C/D) approved by Sione.
-- **Wave 1:** 10 firms contacted March 11, 2026. Email 2 due March 15. Email 3 due March 21.
+- **Wave 1:** 10 firms contacted March 11, 2026. Email 2 sent March 18 (3 days late). Email 3 due March 21.
 - **Wave 2:** 20 firms contacted March 12, 2026. Email 2 due March 16. Email 3 due March 22.
 - **Wave 3:** 20 firms contacted March 13, 2026 (prospects #40-59). Email 2 due March 17. Email 3 due March 23.
 - **Wave 4 remaining:** 36 prospects (#60-95) ready, not yet emailed.
