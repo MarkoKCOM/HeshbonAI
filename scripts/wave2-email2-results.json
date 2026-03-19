@@ -1,0 +1,162 @@
+[
+  {
+    "num": 11,
+    "firm": "Mei CPA PC",
+    "email": "info@meicpa.com",
+    "sequence": "C",
+    "subject": "Re: Mei CPA PC - reaching clients who prefer WhatsApp",
+    "status": "SENT"
+  },
+  {
+    "num": 12,
+    "firm": "MiamiCPA LLC",
+    "email": "glenn@miamicpa.com",
+    "sequence": "C",
+    "subject": "Re: Document collection for MiamiCPA LLC's diverse client base",
+    "status": "SENT"
+  },
+  {
+    "num": 13,
+    "firm": "Debbie Griffiths CPA LLC",
+    "email": "info@griffithsatlanta.com",
+    "sequence": "B",
+    "subject": "Re: Debbie Griffiths CPA LLC's next automation win",
+    "status": "SENT"
+  },
+  {
+    "num": 14,
+    "firm": "The Atlanta CPA Group LLC",
+    "email": "info@atlcpagroup.com",
+    "sequence": "B",
+    "subject": "Re: The one workflow The Atlanta CPA Group LLC probably hasn't automated yet",
+    "status": "SENT"
+  },
+  {
+    "num": 15,
+    "firm": "SMB CPA Group, PC",
+    "email": "contact@smbcpagroup.com",
+    "sequence": "B",
+    "subject": "Re: SMB CPA Group, PC's next automation win",
+    "status": "SENT"
+  },
+  {
+    "num": 16,
+    "firm": "B.O.L. Global, Inc.",
+    "email": "info@bolglobalcpa.com",
+    "sequence": "B",
+    "subject": "Re: The one workflow B.O.L. Global, Inc. probably hasn't automated yet",
+    "status": "SENT"
+  },
+  {
+    "num": 17,
+    "firm": "San Diego CPA",
+    "email": "info@sandiegocpas.com",
+    "sequence": "B",
+    "subject": "Re: San Diego CPA's next automation win",
+    "status": "SENT"
+  },
+  {
+    "num": 18,
+    "firm": "Thomas Huckabee, CPA, Inc.",
+    "email": "thomas.huckabee@tehcpa.net",
+    "sequence": "B",
+    "subject": "Re: The one workflow Thomas Huckabee, CPA, Inc. probably hasn't automated yet",
+    "status": "SENT"
+  },
+  {
+    "num": 19,
+    "firm": "Perpetual CPA",
+    "email": "info@perpetualcpa.com",
+    "sequence": "B",
+    "subject": "Re: Perpetual CPA's next automation win",
+    "status": "SENT"
+  },
+  {
+    "num": 20,
+    "firm": "O'Connor CPA Firm, LLC",
+    "email": "Tricia@OConnorCPAFirm.com",
+    "sequence": "B",
+    "subject": "Re: The one workflow O'Connor CPA Firm, LLC probably hasn't automated yet",
+    "status": "SENT"
+  },
+  {
+    "num": 21,
+    "firm": "MacAlpine Carll and Co., LLC",
+    "email": "cpa@macalpinecarll.com",
+    "sequence": "A",
+    "subject": "Re: MacAlpine Carll and Co., LLC - still chasing clients for documents?",
+    "status": "SENT"
+  },
+  {
+    "num": 22,
+    "firm": "GLSC & Company PLLC",
+    "email": "info@glsccpa.com",
+    "sequence": "A",
+    "subject": "Re: The follow-ups killing your team's time at GLSC & Company PLLC",
+    "status": "SENT"
+  },
+  {
+    "num": 23,
+    "firm": "Parsons CPA, PLLC",
+    "email": "accounting@parsonscpa.com",
+    "sequence": "A",
+    "subject": "Re: Quick question about document collection at Parsons CPA, PLLC",
+    "status": "SENT"
+  },
+  {
+    "num": 24,
+    "firm": "Carolina Accounting & Tax Service",
+    "email": "service@carolinaaccounting.com",
+    "sequence": "A",
+    "subject": "Re: Carolina Accounting & Tax Service - still chasing clients for documents?",
+    "status": "SENT"
+  },
+  {
+    "num": 25,
+    "firm": "Stenger Tax Advisory",
+    "email": "Chris.Jordan@stengerfamilyoffice.com",
+    "sequence": "A",
+    "subject": "Re: The follow-ups killing your team's time at Stenger Tax Advisory",
+    "status": "SENT"
+  },
+  {
+    "num": 26,
+    "firm": "Rapacki + Co",
+    "email": "joe@rapacki.com",
+    "sequence": "A",
+    "subject": "Re: Quick question about document collection at Rapacki + Co",
+    "status": "SENT"
+  },
+  {
+    "num": 27,
+    "firm": "L&H CPAs and Advisors",
+    "email": "info@lhcpafirm.com",
+    "sequence": "A",
+    "subject": "Re: L&H CPAs and Advisors - still chasing clients for documents?",
+    "status": "SENT"
+  },
+  {
+    "num": 28,
+    "firm": "MJ Ahmed CPA PLLC",
+    "email": "mj@dallascpa.net",
+    "sequence": "A",
+    "subject": "Re: The follow-ups killing your team's time at MJ Ahmed CPA PLLC",
+    "status": "SENT"
+  },
+  {
+    "num": 29,
+    "firm": "Jarrar & Associates CPA, Inc.",
+    "email": "samcpa@jarrarcpa.com",
+    "sequence": "A",
+    "subject": "Re: Quick question about document collection at Jarrar & Associates CPA, Inc.",
+    "status": "SENT"
+  },
+  {
+    "num": 30,
+    "firm": "Neumann Curtis CPAs",
+    "email": "info@neumanncurtis.com",
+    "sequence": "A",
+    "subject": "Re: Neumann Curtis CPAs - still chasing clients for documents?",
+    "status": "SENT"
+  }
+]

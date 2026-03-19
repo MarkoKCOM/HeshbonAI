@@ -51,6 +51,38 @@ All emails sent by Closer. Every send logged here.
 
 ---
 
+## 2026-03-19 - Wave 2 Email 2 Follow-Ups
+
+**Total sent:** 20 | **Template:** v5.2 Email 2 (per sequence A/B/C)
+**Note:** 3 days late (was due March 16). Approved by Sione March 19.
+**Replies from Wave 2 at send time:** 0
+**Email 3 due:** 2026-03-22
+
+| # | Firm | Email | Seq | Subject | Status |
+|---|------|-------|-----|---------|--------|
+| 11 | Mei CPA PC | info@meicpa.com | C | Re: Mei CPA PC - reaching clients who prefer WhatsApp | Sent |
+| 12 | MiamiCPA LLC | glenn@miamicpa.com | C | Re: Document collection for MiamiCPA LLC's diverse client base | Sent |
+| 13 | Debbie Griffiths CPA LLC | info@griffithsatlanta.com | B | Re: Debbie Griffiths CPA LLC's next automation win | Sent |
+| 14 | The Atlanta CPA Group LLC | info@atlcpagroup.com | B | Re: The one workflow The Atlanta CPA Group LLC probably hasn't automated yet | Sent |
+| 15 | SMB CPA Group, PC | contact@smbcpagroup.com | B | Re: SMB CPA Group, PC's next automation win | Sent |
+| 16 | B.O.L. Global, Inc. | info@bolglobalcpa.com | B | Re: The one workflow B.O.L. Global, Inc. probably hasn't automated yet | Sent |
+| 17 | San Diego CPA | info@sandiegocpas.com | B | Re: San Diego CPA's next automation win | Sent |
+| 18 | Thomas Huckabee, CPA, Inc. | thomas.huckabee@tehcpa.net | B | Re: The one workflow Thomas Huckabee, CPA, Inc. probably hasn't automated yet | Sent |
+| 19 | Perpetual CPA | info@perpetualcpa.com | B | Re: Perpetual CPA's next automation win | Sent |
+| 20 | O'Connor CPA Firm, LLC | Tricia@OConnorCPAFirm.com | B | Re: The one workflow O'Connor CPA Firm, LLC probably hasn't automated yet | Sent |
+| 21 | MacAlpine Carll and Co., LLC | cpa@macalpinecarll.com | A | Re: MacAlpine Carll and Co., LLC - still chasing clients for documents? | Sent |
+| 22 | GLSC & Company PLLC | info@glsccpa.com | A | Re: The follow-ups killing your team's time at GLSC & Company PLLC | Sent |
+| 23 | Parsons CPA, PLLC | accounting@parsonscpa.com | A | Re: Quick question about document collection at Parsons CPA, PLLC | Sent |
+| 24 | Carolina Accounting & Tax Service | service@carolinaaccounting.com | A | Re: Carolina Accounting & Tax Service - still chasing clients for documents? | Sent |
+| 25 | Stenger Tax Advisory | Chris.Jordan@stengerfamilyoffice.com | A | Re: The follow-ups killing your team's time at Stenger Tax Advisory | Sent |
+| 26 | Rapacki + Co | joe@rapacki.com | A | Re: Quick question about document collection at Rapacki + Co | Sent |
+| 27 | L&H CPAs and Advisors | info@lhcpafirm.com | A | Re: L&H CPAs and Advisors - still chasing clients for documents? | Sent |
+| 28 | MJ Ahmed CPA PLLC | mj@dallascpa.net | A | Re: The follow-ups killing your team's time at MJ Ahmed CPA PLLC | Sent |
+| 29 | Jarrar & Associates CPA, Inc. | samcpa@jarrarcpa.com | A | Re: Quick question about document collection at Jarrar & Associates CPA, Inc. | Sent |
+| 30 | Neumann Curtis CPAs | info@neumanncurtis.com | A | Re: Neumann Curtis CPAs - still chasing clients for documents? | Sent |
+
+---
+
 ## 2026-03-12 - USA Campaign Wave 2
 
 **Total sent today:** 20
