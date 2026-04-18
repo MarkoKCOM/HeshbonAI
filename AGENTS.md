@@ -109,3 +109,14 @@ Your workspace is a git repo (`MarkoKCOM/HeshbonAI`). Keep it committed and push
 ## Tools
 
 Read `SKILLS.md` before starting any task. Use the right skill for the job.
+
+## 📂 Where To Clone Repos — CRITICAL
+
+`apply_patch` is sandboxed to `~/.openclaw/workspace/`. `/tmp/` clones are **write-blocked** — you can `git clone` there but every `apply_patch` will fail with "Path escapes sandbox root".
+
+**Rules:**
+- Standard flow: clone to `/root/<repo-name>` (e.g. `/root/defi-frontend`)
+- Parallel branch workspace: `~/.openclaw/workspace/scratch/<task-id>/`
+- `/tmp/` is read-only territory — do not patch there
+- If you find a `/tmp/` clone needing edits: `mv /tmp/<dir> ~/.openclaw/workspace/scratch/` first
+- Never symlink from `/tmp/` — `apply_patch` resolves real paths
